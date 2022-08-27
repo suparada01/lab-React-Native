@@ -19,9 +19,10 @@
  =============
  โดยใช้คำสั่ง
  fetch(`http://api.openweathermap.org/data/2.5/weather?q=${props.zipCode},th&units=metric&APPID=344be349173296a8f911946b02d5c1a8`)
- 
- ![](https://imgur.com/8j3z4v4)
 
- ![](https://imgur.com/8kWOx5q)
 
- ![](https://imgur.com/jPhOOsk)
+ ![](https://imgur.com/8j3z4v4.png)
+
+ ![](https://imgur.com/8kWOx5q.png)
+
+ ![](https://imgur.com/jPhOOsk.png)
