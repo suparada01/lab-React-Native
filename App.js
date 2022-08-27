@@ -1,7 +1,9 @@
+import React from 'react'
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import Weather from './components/Weather';
 import Contansts from 'expo-constants';
+
 
 
 export default function App() {
